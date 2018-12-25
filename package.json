@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
     "handlebars-layout": "^0.1.4"
   }
 }
